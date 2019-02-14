@@ -9,4 +9,4 @@
 [Mask R-CNN ](https://arxiv.org/pdf/1703.06870.pdf)  [中文全文翻译](https://www.jianshu.com/p/0b23b5bc17fa)
 
 加qq群交流
-[论文翻译交流群](https://github.com/Jeremyliu7/Computer-Vision-Classic-Paper-Translation/blob/master/images/270229874.jpg)
+![论文翻译交流群](https://github.com/Jeremyliu7/Computer-Vision-Classic-Paper-Translation/blob/master/images/270229874.jpg)
